@@ -1,6 +1,9 @@
 # BACKEND FULL COURSE - Node.JS Express.JS Prisma PostgreSQL 
-
-This guide provides an overview of the codebase, the functionality of the app, and detailed instructions on how to set up and run the app. Make sure to follow all steps carefully, especially regarding Node.js version requirements.
+> 📚 **Course project.** Built while following
+> [this backend course](https://youtu.be/9BD9eK9VqXA) to practice Node.js,
+> Express, Prisma, PostgreSQL, JWT and Docker.
+> My own, larger project: [admin-panel](https://github.com/yousefzoubi/admin-panel)
+>
 
 ## Overview
 
